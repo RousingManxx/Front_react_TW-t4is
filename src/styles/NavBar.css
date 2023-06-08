@@ -1,0 +1,8 @@
+.contenedorNav{
+    display: block;
+}
+.navbar-text{
+    position: relative;
+    left: 30%;    
+    font-size: x-large;
+}
