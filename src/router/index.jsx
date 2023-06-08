@@ -6,7 +6,7 @@ import NotFound from "../pages/NotFound";
 import SolicitarAulas from "../pages/SolicitarAulas";
 import Login from "../pages/Login";
 import LayoutAdmin from "../layout/LayoutAdmin";
-import Usuarios from "../pages/usuarios";
+import Usuarios from "../pages/Usuarios";
 import Salones from "../pages/Salones";
 import SalonesEnUso from "../pages/SalonesEnUso";
 import HistorialSalones from "../pages/HistorialSalones";
